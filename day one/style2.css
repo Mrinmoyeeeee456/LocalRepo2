@@ -1,0 +1,37 @@
+ 
+        /* kom beshi important bolte class use kori */
+        h2{
+            background-color: rgb(224, 184, 190);
+            color: rgb(114, 98, 218);
+            text-align: center;}
+        /* kono nirdisto onso change korte p er vetore id dia nam thic kore sei nam er age # dia nam ta declere korte hobe */
+        #text-paragraph{ font-size: 22px;
+            font-family: Arial, sans-serif;
+            color: darkturquoise;
+        ;}
+        .mcq{
+            text-emphasis-style: initial;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            color: chocolate;
+        }
+        .written{
+            font-size: 20px;
+            color: darkred;
+        }
+        .read{
+            font-size: 18px;
+            color: green;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        .not needed{
+            text-decoration: line-through;
+            color: grey;
+        }
+
+        /* span use kore inline way te style add korte pari  */
+        span{
+            color: hsl(60, 50%, 56%);
+            font-weight: bold;
+            background-color: rgb(125, 94, 46);
+        }
+    

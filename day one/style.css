@@ -1,0 +1,38 @@
+/* 1.What is CSS?
+ 2. 3ways to write CSS Inline, internal,ext   ernal
+ 3. CSS color System (HEX, RGB, HSL
+
+4. CSS Selectors:Tag,Class,ID,Universal(*),Nested
+5.*Css Measurements Unit(px, in , ,%,vw,vh)
+6. Multiple & Combined Selectors
+7. CSS Override Rules power
+
+   todays topic
+ 1.style text with css
+ 2.*css box model(color,image,position)
+ 3.styling inline vs block elements
+ 4.style images
+ 5.style inputs and buttons
+ 6.*centrilization techniques
+ 7.pseudo classes & pseudo class selector  
+ */
+
+ /* <tagName alt1="value" alt="value">
+  </tagname>
+
+  Inline CSS
+  <h2 style=" rule:value ;rule:value">
+  My Content/Other ::-webkit-progress-inner-element</h2> */
+
+  /* Internal CSS
+    <head>
+      <style>
+         selector{ rule-1:value; rule-2:value}
+       </style>
+    </head>     */
+/* 
+    External CSS
+
+    style.css
+
+    selector{ rule-1:value; rule-2:value} */
