@@ -34,4 +34,11 @@
             font-weight: bold;
             background-color: rgb(125, 94, 46);
         }
+        /* universal selector use kore sob element e style apply kora jay */
+        *{
+            border-width:1px;
+            border-color: rgb(3, 19, 102);
+            border-style: solid;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
     
